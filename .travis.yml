@@ -3,6 +3,8 @@ cache: packages
 r:
   - bioc-release
   - bioc-devel
+before_install:
+  - cd dREG
 r_github_packages:
   - jimhester/covr
   - jimhester/lintr
