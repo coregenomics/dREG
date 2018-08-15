@@ -1,3 +1,5 @@
+[![build-status](https://travis-ci.org/coregenomics/dREG.svg?branch=ci)](https://travis-ci.org/coregenomics/dREG)
+
 dREG
 ===============
 
